@@ -2,7 +2,7 @@
 # heading
 #
 def test_loop1(param):
-    if param < 100:
+    if param < 101:
         return True
     else:
         return False
