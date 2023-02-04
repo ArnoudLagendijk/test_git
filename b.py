@@ -7,4 +7,4 @@ def print_list(list_in):
         print(x)
 
 def make_remark(remark):
-    return f'This is my remark: {remark}'
+    return f'This is my remark: {remark}!'
