@@ -5,6 +5,7 @@ def make_loop():
 def print_list(list_in):
     for x in list_in:
         print(x)
+        print(x+1)
 
 def make_remark(remark):
     return f'This is my remark: {remark}!'
